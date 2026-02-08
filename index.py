@@ -1,5 +1,4 @@
 
-
 ### Codigo para simulação
 
 import streamlit as st
@@ -106,8 +105,6 @@ while True:
         alpha=0.3
     )
 
-
-
     # Mostra/atualiza gráfico no Streamlit
     grafico_placeholder.pyplot(fig)
     plt.close(fig) 
@@ -141,8 +138,6 @@ while True:
         delta= "Min",
         delta_color="red"
     )
-
-
 
 
     # Pequena pausa para não travar o navegador

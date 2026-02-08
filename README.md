@@ -32,7 +32,6 @@ Exemplo:
 <p align="center">
   <img 
     src="https://github.com/user-attachments/assets/423c9748-c196-4a8f-a429-aaefab4a4114" 
-    width="800"
     alt="Imagem total do projeto"
   />
 </p>
