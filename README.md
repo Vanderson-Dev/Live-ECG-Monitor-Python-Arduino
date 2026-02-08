@@ -21,5 +21,5 @@ O projeto simula (ou pode ler) sinais de um **Arduino**, permitindo estudos e te
 > 📌 *Adicione aqui um print ou GIF do projeto rodando*
 
 Exemplo:
-![Imagem Total](https://github.com/user-attachments/assets/867c7552-3162-4863-8254-96ae76ad281f)
-<img width="1024" height="1024" alt="Oficial" src="https://github.com/user-attachments/assets/867c7552-3162-4863-8254-96ae76ad281f" />
+![Imagem Total](https://github.com/user-attachments/assets/423c9748-c196-4a8f-a429-aaefab4a4114)
+
