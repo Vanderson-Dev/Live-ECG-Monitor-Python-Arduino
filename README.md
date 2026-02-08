@@ -18,7 +18,16 @@ O projeto simula (ou pode ler) sinais de um **Arduino**, permitindo estudos e te
 
 ## 🖥️ Demonstração
 
-> 📌 *Adicione aqui um print ou GIF do projeto rodando*
+## 🚀 Demonstração do Projeto
+
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/9ad10961-47dc-4fb4-b375-19ec66022973" 
+    width="800"
+    alt="Demonstração do projeto em funcionamento"
+  />
+</p>
+
 
 Exemplo:
 ![Imagem Total](https://github.com/user-attachments/assets/423c9748-c196-4a8f-a429-aaefab4a4114)
