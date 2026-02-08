@@ -16,8 +16,6 @@ O projeto simula (ou pode ler) sinais de um **Arduino**, permitindo estudos e te
 
 ---
 
-## 🖥️ Demonstração
-
 ## 🚀 Demonstração do Projeto
 
 <p align="center">
@@ -30,5 +28,15 @@ O projeto simula (ou pode ler) sinais de um **Arduino**, permitindo estudos e te
 
 
 Exemplo:
-![Imagem Total](https://github.com/user-attachments/assets/423c9748-c196-4a8f-a429-aaefab4a4114)
+
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/423c9748-c196-4a8f-a429-aaefab4a4114" 
+    width="800"
+    alt="Imagem total do projeto"
+  />
+</p>
+
+
+
 
